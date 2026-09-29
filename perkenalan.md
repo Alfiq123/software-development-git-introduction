@@ -2,9 +2,9 @@
 
 ## Identitas
 
-**Nama:** Muhammad Fauzi Taufiqurrahman
-**NPM:** 2413020083
-**Program Studi:** Teknik Informatika
+* **Nama:** Muhammad Fauzi Taufiqurrahman
+* **NPM:** 2413020083
+* **Program Studi:** Teknik Informatika
 
 ## Minat Bidang IT
 
